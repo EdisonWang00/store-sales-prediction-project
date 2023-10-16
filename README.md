@@ -16,7 +16,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. We are tasked 
 •	store.csv - supplemental information about the stores
 
 # Approach
-Our initial steps will involve delving into the dataset, followed by addressing any gaps caused by missing values, and conducting constructive feature engineering. Subsequently, our focus will shift towards constructing predictive models aimed at forecasting sales. 
+My initial steps will involve delving into the dataset, followed by addressing any gaps caused by missing values, and conducting constructive feature engineering. Subsequently, our focus will shift towards constructing predictive models aimed at forecasting sales. 
 
 # Evaluation Metrics
 There are two popular metrics used in measuring the performance of regression (continuous variable) models i.e MAE & RMSE.
